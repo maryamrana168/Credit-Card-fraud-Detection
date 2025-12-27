@@ -1,5 +1,4 @@
-Here is a professional, university-ready README.md for your Credit Card Fraud Detection App.
-You can copy-paste this directly into GitHub or your project submission.
+ 
 
 💳 Credit Card Fraud Detection App
 🧠 Project Overview
